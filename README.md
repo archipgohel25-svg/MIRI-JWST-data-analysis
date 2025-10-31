@@ -30,6 +30,6 @@ NGC 7469
 - identify and compare spectra lines
 
 ## References
--NASA/IPAC Extragalactic Database([NED](https://ned.ipac.caltech.edu/))
--SIMBAD Astronomical Database([SIMBAD](http://cdsxmatch.u-strasbg.fr/))
--JWST MAST portal([MAS](https://archive.stsci.edu/missions-and-data/jwst))
+- NASA/IPAC Extragalactic Database([NED](https://ned.ipac.caltech.edu/))
+- SIMBAD Astronomical Database([SIMBAD](http://cdsxmatch.u-strasbg.fr/))
+- JWST MAST portal([MAS](https://archive.stsci.edu/missions-and-data/jwst))
